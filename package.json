@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Created using Node.js, Express, Mangoose and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravan1902/Natours-Application.git"
+  },
+  "author": "Sravan Kethavath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravan1902/Natours-Application/issues"
+  },
+  "homepage": "https://github.com/sravan1902/Natours-Application#readme"
+}
